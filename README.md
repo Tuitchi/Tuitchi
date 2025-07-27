@@ -9,5 +9,7 @@
 <!---
 Tuitchi/Tuitchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-https://api.githubtrends.io/user/svg/Tuitchi/langs?time_range=one_year&compact=True&theme=dark
+--->[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tuitchi/langs?time_range=one_year&compact=True&theme=dark](https://githubtrends.io)

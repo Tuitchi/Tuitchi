@@ -1,68 +1,68 @@
 <div align="center">
   
-# Tuitchi
+# Nikolai Lapatan | Web Developer
 
-[![Professional Developer](https://img.shields.io/badge/Professional-Developer-blue?style=for-the-badge)](https://github.com/Tuitchi)
-[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge)](https://github.com/Tuitchi?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Tuitchi/Portfolio)
+[![Projects](https://img.shields.io/badge/Projects-6_Repositories-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tuitchi?tab=repositories)
 
 </div>
 
 ## About Me
 
-> "Professional in approach, creative in solution."
+> "Building digital experiences, one line of code at a time."
 
-I'm a dedicated developer focused on building robust, efficient, and maintainable solutions. My passion lies in [specific area of technology] where I combine technical expertise with creative problem-solving.
+I'm a web developer focused on creating intuitive and functional web solutions. I specialize in front-end development with HTML and JavaScript, building everything from portfolios to management systems.
 
-- 👨‍💻 Currently working on: **[Current professional project]**
-- 📚 Expanding knowledge in: **[Technologies you're learning]**
-- 🤝 Open to collaborate on: **Projects with meaningful impact**
-- 💼 Professional expertise: **[Your key skills/domains]**
+- 💼 Currently developing: **Web applications and service platforms**
+- 🌱 Expanding my skills in: **JavaScript frameworks and responsive design**
+- 🔍 Interested in: **UI/UX design and web optimization**
+- 🚀 Looking to collaborate on: **Web development projects and innovative platforms**
 
-## Technical Proficiencies
+## Tech Stack
 
 <div align="center">
 
-| Languages | Frameworks | Tools | Platforms |
-|-----------|------------|-------|-----------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| Front-End | Back-End | Tools | Design |
+|-----------|----------|-------|--------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
 
-## Professional Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuitchi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuitchi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</div>
-
-## Featured Work
+## Featured Projects
 
 <div align="center">
   
-| Project Alpha | Project Beta | Project Gamma |
+| [Portfolio Website](https://github.com/Tuitchi/Portfolio) | [LMS System](https://github.com/Tuitchi/LMS) | [Penguin Sales Services](https://github.com/Tuitchi/Penguin-Sales-Services-Company) |
 |:-------------:|:------------:|:-------------:|
-| ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuitchi&repo=project-alpha&theme=github_dark&hide_border=true) | ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuitchi&repo=project-beta&theme=github_dark&hide_border=true) | ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuitchi&repo=project-gamma&theme=github_dark&hide_border=true) |
-| Enterprise solution | Open-source tool | Research project |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuitchi&repo=Portfolio&theme=github_dark&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuitchi&repo=LMS&theme=github_dark&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuitchi&repo=Penguin-Sales-Services-Company&theme=github_dark&hide_border=true" /> |
+| My professional portfolio showcasing projects and skills | Learning Management System with user-friendly interface | Company website for sales and services |
 
 </div>
 
-## Professional Development
+## GitHub Stats
 
-<!-- A touch of fun with the progress bars -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuitchi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuitchi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
+
+## Achievements
+
 ```text
-Professional Growth      ██████████████████████░░   90%
-Technical Expertise      ███████████████████████░   95%
-Problem Solving         █████████████████████████   100%
-Coffee Consumption      █████████████████████████   100%
+⭐ Pull Shark: Successfully merged pull requests
+🚀 YOLO: Merged code without review (living on the edge!)
+📊 Code Efficiency: ███████████████████░░░░░   80%
+📱 Responsive Design: ██████████████████████░   95%
+☕ Coffee Consumption: █████████████████████   100%
 ```
 
-## Connect Professionally
+## Find Me Online
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tuitchi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Tuitchi/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikolai-lapatan)
   
 </div>
 
@@ -73,7 +73,7 @@ Coffee Consumption      ██████████████████�
 ---
 
 <div align="center">
-  <sub>When I'm not coding, you might find me:</sub>
+  <sub>When I'm not coding, you'll find me...</sub>
   <br>
-  <sup>📚 Reading about [interest] | 🎮 Playing [game/sport] | 🌱 Learning [hobby]</sup>
+  <sup>🎨 Exploring design trends | 🌐 Discovering new web technologies | 🧩 Solving UI challenges</sup>
 </div>

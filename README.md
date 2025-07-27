@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tuitchi/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuitchi)](https://github.com/anuraghazra/github-readme-stats)
